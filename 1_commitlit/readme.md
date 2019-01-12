@@ -23,3 +23,5 @@ module.exports = {
   }
 };
 ```
+
+接下来要搭建[CI Server](https://developer.github.com/v3/guides/building-a-ci-server/)，(持续集成的服务器)，然后在上面[配置commonlit](https://marionebl.github.io/commitlint/#/guides-ci-setup)，md，这个难度有点高，稍后再弄把
